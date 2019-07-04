@@ -10,7 +10,7 @@
 タイミングゲーム
 
 ## プラットフォーム  
-* [Androidビルドデータ]()  
+* [Windowsビルドデータ]()  
 
 ## 担当ブログラムファイル  
 * [クマとオオカミの判定](./testgame/Assets/Script/AnnimalScript/BearWolf.cs)  
