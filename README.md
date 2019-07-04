@@ -2,7 +2,7 @@
 
 ## ファイル構成  
 * [Unityデータ](./testgame/)  
-* [ビルドデータ]()  
+* [ビルドデータ](./Executable/)  
 
 ## 概要  
 
@@ -10,7 +10,7 @@
 タイミングゲーム
 
 ## プラットフォーム  
-* [Windowsビルドデータ]()  
+* [Windowsビルドデータ](./Executable/AnimalFeed_Windows/)  
 
 ## 担当ブログラムファイル  
 * [クマとオオカミの判定](./testgame/Assets/Script/AnnimalScript/BearWolf.cs)  
